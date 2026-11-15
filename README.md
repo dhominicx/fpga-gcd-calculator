@@ -2,6 +2,11 @@
 
 A 16-bit **Greatest Common Divisor (GCD) calculator** implemented in VHDL and deployed on a **Zybo Z7 FPGA development board** using Xilinx Vivado.
 
+<p align="center">
+  <img width="300" height="300" alt="zybo-z7-0" src="https://github.com/user-attachments/assets/980392ce-9b3d-4c5f-bdeb-4df793a47ea9" />
+</p>
+
+
 This project was developed as part of the VHDL coursework at **Polytech Grenoble – Grenoble INP – UGA**, during the fourth year of the Computer Science and Embedded Systems Engineering (IESE) program.
 
 ## Project Overview
